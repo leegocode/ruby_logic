@@ -1,7 +1,5 @@
 def a
   puts "111111"
-  return true
-
 end
 
 def b
@@ -14,3 +12,7 @@ end
 a && b #a與b都成立才會兩個都成立
 
 # puts a || b #a 成立的話 b就不會執行
+
+s = 1
+d = 2
+puts  d
