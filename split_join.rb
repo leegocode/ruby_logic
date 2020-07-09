@@ -12,7 +12,3 @@ def spinWords(string)
 end
 
 p spinWords("qweqwe azzzzzz kkoooo kolsls saq")
-a = "test"
-b = a
-b[1] = "s"
-p b 
