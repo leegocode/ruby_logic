@@ -24,3 +24,9 @@ end
  p result1
  result2 = c||d
  p result2
+
+
+ a = "test"
+ b = a
+ b[1] = "s"
+ p a 
